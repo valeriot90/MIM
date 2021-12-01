@@ -1,6 +1,6 @@
 ###########################################################
 # MIM                                                     #
-# Project for course of Multimedia Information Management #
+# Project for Multimedia Information Management course    #
 #                                                         #
 # Academic code for academic purposes only.               #
 ###########################################################
